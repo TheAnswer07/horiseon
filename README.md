@@ -6,7 +6,8 @@
   - [User Story](#user-story)
   - [Languages](#languages)
   - [Acknowledgments](#acknowledgments)
-  - [Application Screenshot](#application-screenshot)
+  - [Website Screenshot 1](#website-screenshot-1)
+  - [Website Screenshot 2](#website-screenshot-2)
   - [GitHub Link](#gitHub-link)
   - [Website Link](#website-link)
 
@@ -30,9 +31,13 @@ The objective of this challenge is to work with someone else's code (Scout Rule)
 ​
 I worked with my cohort Jack Youkstetter for 15 minutes reviewing and polishing part of this code. It was a great and appreciated collaboration.
 
-### Application Screenshot:
+### Website Screenshot 1:
 ​
-![Application Screenshot](./assets/images/Website%20screenshot.png)
+![Website Screenshot 1](./assets/images/screenshots/website%20screenshot%201.png)
+
+### Website Screenshot 2:
+​
+![Website Screenshot 2](./assets/images/screenshots/website%20screenshot%202.png)
 
 ### GitHub Link:
 
